@@ -1,0 +1,5 @@
+#deixa os arquivos de log no lugar certo....
+*.log
+
+#ignora a pasta Includes com a comunicação com outras APIs
+includes/
